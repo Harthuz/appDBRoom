@@ -1,4 +1,4 @@
-package com.example.appdatabase
+package com.example.teste
 
 import org.junit.Test
 
